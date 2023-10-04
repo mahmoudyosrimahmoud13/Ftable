@@ -1,0 +1,5 @@
+def show(m):
+    for i in range(m):
+        return i
+n = input()
+print(show(n))
